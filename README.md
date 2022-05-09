@@ -12,7 +12,7 @@ Demo website: https://nextjs-practice-instagram.vercel.app
 5. Like/unlike posts and display number of like
 
 
-**Lesson learned**
+**Lesson learnt**
 
 1. Nextjs and React (Components rendering, routing, hooks, etc.)
 2. tailwind css and mobile first design
